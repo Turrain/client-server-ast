@@ -1,0 +1,15 @@
+[submodule "go-ast-backend"]
+	path = go-ast-backend
+	url = https://github.com/Turrain/go-ast-backend
+[submodule "go-ast-intf"]
+	path = go-ast-intf
+	url = https://github.com/Turrain/go-ast-intf
+[submodule "go-ast-bridge"]
+	path = go-ast-bridge
+	url = https://github.com/Turrain/go-ast-bridge
+[submodule "go-ast-whisper"]
+	path = go-ast-whisper
+	url = https://github.com/Turrain/go-ast-whisper
+[submodule "go-ast-tts"]
+	path = go-ast-tts
+	url = https://github.com/Turrain/go-ast-tts
