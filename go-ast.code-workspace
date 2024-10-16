@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "go-ast-backend"
+		},
+		{
+			"path": "go-ast-intf"
+		},
+		{
+			"path": "go-ast-bridge"
+		},
+		{
+			"path": "go-ast-tts"
+		},
+		{
+			"path": "go-ast-whisper"
+		},
+		{
+			"path": "scripts"
+		},
+		{
+			"path": "docs"
+		}
+	],
+	"settings": {}
+}
