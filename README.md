@@ -1,5 +1,7 @@
 # 📚 ChatApp
-![image](image.png)
+![image](https://github.com/user-attachments/assets/229f3dee-4f5d-43e2-82b9-491ca399b21e)
+![image](https://github.com/user-attachments/assets/8b83f076-1ef5-48f2-bfed-c3e577cff761)
+
 Image of Admin/Chat panel
 
 Welcome to **Zvonobot**! 🎉
